@@ -1,0 +1,19 @@
+
+h1
+{
+	color: black; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-position: center;
+	background-size: cover;
+	background-image:url("bg1.jpg");
+}
+
+#e{
+height: 600px;
+border: 10px ridge;	
+width: 1000px;
+background-color: white
+;
+}
